@@ -1,0 +1,11 @@
+E:\vs\report11\report11\bin\Debug\report11.exe.config
+E:\vs\report11\report11\bin\Debug\report11.exe
+E:\vs\report11\report11\bin\Debug\report11.pdb
+E:\vs\report11\report11\bin\Debug\Oracle.DataAccess.dll
+E:\vs\report11\report11\obj\Debug\report11.csprojResolveAssemblyReference.cache
+E:\vs\report11\report11\obj\Debug\report11.Form1.resources
+E:\vs\report11\report11\obj\Debug\report11.Properties.Resources.resources
+E:\vs\report11\report11\obj\Debug\report11.csproj.GenerateResource.Cache
+E:\vs\report11\report11\obj\Debug\report11.exe
+E:\vs\report11\report11\obj\Debug\report11.pdb
+E:\vs\report11\report11\obj\Debug\report11.Form2.resources

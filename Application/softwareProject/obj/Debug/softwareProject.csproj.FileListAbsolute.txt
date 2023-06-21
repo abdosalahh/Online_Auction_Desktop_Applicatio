@@ -1,0 +1,65 @@
+D:\c++_projects\softwareProject\softwareProject\bin\Debug\softwareProject.exe.config
+D:\c++_projects\softwareProject\softwareProject\bin\Debug\softwareProject.exe
+D:\c++_projects\softwareProject\softwareProject\bin\Debug\softwareProject.pdb
+D:\c++_projects\softwareProject\softwareProject\obj\Debug\softwareProject.csproj.AssemblyReference.cache
+D:\c++_projects\softwareProject\softwareProject\obj\Debug\softwareProject.csproj.SuggestedBindingRedirects.cache
+D:\c++_projects\softwareProject\softwareProject\obj\Debug\softwareProject.Form1.resources
+D:\c++_projects\softwareProject\softwareProject\obj\Debug\softwareProject.Properties.Resources.resources
+D:\c++_projects\softwareProject\softwareProject\obj\Debug\softwareProject.csproj.GenerateResource.cache
+D:\c++_projects\softwareProject\softwareProject\obj\Debug\softwareProject.csproj.CoreCompileInputs.cache
+D:\c++_projects\softwareProject\softwareProject\obj\Debug\softwareProject.exe
+D:\c++_projects\softwareProject\softwareProject\obj\Debug\softwareProject.pdb
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\bin\Debug\softwareProject.exe.config
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\bin\Debug\softwareProject.exe
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\bin\Debug\softwareProject.pdb
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\bin\Debug\Oracle.DataAccess.dll
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.csproj.AssemblyReference.cache
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.csproj.SuggestedBindingRedirects.cache
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.Login.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.Properties.Resources.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.Register.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.csproj.GenerateResource.cache
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.csproj.CoreCompileInputs.cache
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.csproj.CopyComplete
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.exe
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.pdb
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.Home.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.UserProfile.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.Post_Product.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\softwareProject\softwareProject\obj\Debug\softwareProject.SearchProd.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\bin\Debug\softwareProject.exe.config
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\bin\Debug\softwareProject.exe
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\bin\Debug\softwareProject.pdb
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\bin\Debug\Oracle.DataAccess.dll
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.csproj.AssemblyReference.cache
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.csproj.SuggestedBindingRedirects.cache
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.Home.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.Login.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.Post_Product.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.Properties.Resources.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.Register.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.SearchProd.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.UserProfile.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.ViewOffers.resources
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.csproj.GenerateResource.cache
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.csproj.CoreCompileInputs.cache
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.csproj.CopyComplete
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.exe
+D:\Software Eng\Project\phase 2\[Auction Management System] - [T 83] [Mainstream]\Application\softwareProject\obj\Debug\softwareProject.pdb
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\bin\Debug\softwareProject.exe.config
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\bin\Debug\softwareProject.exe
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\bin\Debug\softwareProject.pdb
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.csproj.AssemblyReference.cache
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.csproj.SuggestedBindingRedirects.cache
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.Home.resources
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.Login.resources
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.Post_Product.resources
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.Properties.Resources.resources
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.Register.resources
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.SearchProd.resources
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.UserProfile.resources
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.ViewOffers.resources
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.csproj.GenerateResource.cache
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.csproj.CoreCompileInputs.cache
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.exe
+E:\FCIS\Projects\Onlin Auction App Software Eng\Application\softwareProject\obj\Debug\softwareProject.pdb
